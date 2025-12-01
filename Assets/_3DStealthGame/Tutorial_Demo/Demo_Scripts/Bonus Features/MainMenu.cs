@@ -25,7 +25,7 @@ namespace StealthGame
             m_StartButton.clicked += () =>
             {
                 //The game scene needs to be set in the Build Profile Scene List
-                SceneManager.LoadScene(1);
+                SceneManager.LoadScene("Main");
             };
 
             m_ExitButton.clicked += () =>
