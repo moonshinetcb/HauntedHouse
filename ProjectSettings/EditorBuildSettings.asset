@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_3DStealthGame/Tutorial_Demo/Demo_Scenes/MainMenu.unity
     guid: e0afa25d30aeb924895fa68e23be7af2
+  - enabled: 1
+    path: Assets/_3DStealthGame/Scenes/Main.unity
+    guid: 914a9fd699194ae438190ae54f1cea51
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: bd5310c9c981f0945b4791399d3cef30,
       type: 2}
